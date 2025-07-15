@@ -1,4 +1,4 @@
-# README - Chatbot com Next.js e Ollama
+Chatbot com Next.js e Ollama
 
 ## Descrição do Projeto
 
