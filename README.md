@@ -175,9 +175,3 @@ Este projeto é um **chatbot** desenvolvido com **Next.js 15** que utiliza a API
 - **Erro de conexão com Ollama**: Verifique se o servidor Ollama está rodando em `http://localhost:11434` e se a URL está corretamente configurada no `.env.local`.
 - **Mensagens não aparecem**: Inspecione o console do navegador para erros na chamada à API `/api/chat`.
 
----
-
-## Repositório
-
-O código-fonte do projeto está disponível em:  
-[git@github.com:GaussNoob/Chatbot-com-Next.js-e-Ollama.git](git@github.com:GaussNoob/Chatbot-com-Next.js-e-Ollama.git)
